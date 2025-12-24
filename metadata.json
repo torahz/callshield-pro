@@ -1,0 +1,8 @@
+{
+  "name": "CallShield Pro",
+  "description": "Uma solução avançada de bloqueio de chamadas para Android que utiliza sua lista de contatos como whitelist, protegendo sua família contra spam e fraudes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
